@@ -1,0 +1,1459 @@
+102152049827030|Makati
+106388046062960|Hanoi, Vietnam
+112514818759939|Berlin, New Hampshire
+108458769184495|Ho Chi Minh City, Vietnam
+115085015172389|Moscow, Russia
+102165109825132|Phu Ly
+109155499103263|Cebu City
+100243430017590|Nam Định, Nam Định, Vietnam
+110922325599480|Taichung, Taiwan
+113550041989181|Pekanbaru
+106283612743947|Hai Hau
+104911886212799|Ha Loi, Ha Noi, Vietnam
+108259475871818|Seoul, Korea
+105589566142652|Yokohama
+115213835158481|Phan Thiet
+351759091676222|Biên Hòa
+106498672718836|Thu Dau Mot
+103353646373286|Cho Con, Ha Nam Ninh, Vietnam
+112957685382283|Co Nhue, Ha Noi, Vietnam
+115862601760066|Dinh Hoi, Ha Nam Ninh, Vietnam
+160524820662482|Nagoya-shi, Aichi, Japan
+108189672543226|Top-of-the-World, Arizona
+112866245397721|Hòa Dinh, Ha Nam Ninh, Vietnam
+114668461883395|Hai Phong, Vietnam
+111403155545903|Can Tho
+108724149156796|Thành phố Hồ Chí Minh, Hồ Chí Minh, Vietnam
+116405215039665|Kon Tum, Kon Tum, Vietnam
+110434555644115|Nam Truc
+111628348854225|Lào Cai
+109311335759536|Thái Bình, Thái Bình, Vietnam
+118887498184793|Toride-shi, Ibaraki, Japan
+108993769128773|Ha Noi, Vietnam
+111591762192643|Chiang Mai, Thailand
+110589025635590|Prague, Czech Republic
+104828462886008|Ha Tin', Hà Tĩnh, Vietnam
+108446732520456|Lima, Peru
+448443205270045|Bao Loc
+111117635579016|Ha Long
+113146088698173|Quang Ninh, Binh Tri Thien, Vietnam
+104121649624627|Thanh Hai
+108121405876426|Da Lat
+106078429431815|London, United Kingdom
+105667452800809|Thanh Hóa
+110041405685472|Vung Tau
+111711568847056|Da Nang, Vietnam
+106262882745698|Guangzhou, China
+111108918919193|Ha Vi, Ha Noi, Vietnam
+109167735769857|Bac Giang
+114600441890814|Shibuya, Tokyo
+110774245616525|Paris, France
+110292052323935|Vieng-Chan, Vientiane, Laos
+108424279189115|New York, New York
+112621745415708|Chennai, India
+111836278834036|Dingnan
+104043839631933|Son La
+112780328736488|Tân An, Long An
+109265055761051|Tay Ho, Ha Noi, Vietnam
+107751605926185|Hue, Vietnam
+110843418940484|Seattle, Washington
+109740452377835|Bac Lieu
+108017232565792|Quy Nhon
+108027062558523|Toshima, Tokyo
+108851292469108|Nam Ninh, Ha Nam Ninh, Vietnam
+107446829285335|Hà Giang
+108162225878454|Cao Bang
+107983352568918|Bắc Ninh
+108757005816097|Fukuroi, Shizuoka
+108079539226566|Dak Mil
+109916112357708|Binh Phuoc, Vietnam
+107966492570582|Xuan Truong
+110496905637950|Vinh Yen
+106035929437293|Mu Cang Chai
+107983305896554|Móng Cái, Vietnam
+103127986394657|Ba Ria
+104690386236592|Go Vap, Hồ Chí Minh, Vietnam
+108381969189128|Kumiyama, Kyoto
+113185112026839|Bình Chánh, Hồ Chí Minh, Vietnam
+108056642561514|Giao Thuy
+112556908755424|Ô Môn
+108422612522293|Luc Nam
+109205905763791|Nha Trang
+113156528700425|Ngoc Ha, Ha Noi, Vietnam
+104668179572393|Haiphong, Hải Phòng, Vietnam
+110207889000543|Haugesund, Norway
+112618325422446|Ninh Cuong, Ha Nam Ninh, Vietnam
+110585945628334|Bangkok, Thailand
+112933135384816|Gia Lâm Pho, Ha Noi, Vietnam
+109199125765430|Siem Reap
+114743851870980|Londonderry, Northern Ireland
+113022515382616|Luong Son, Hòa Bình, Vietnam
+105744996115527|Ap Binh Duong (1), Vietnam
+109433122412192|Dubai, Uttar Pradesh, India
+109659755724738|Buôn Ma Thuột, Đắc Lắk, Vietnam
+114629675219759|Manchester, United Kingdom
+110361935644504|Phu Loi, Vietnam
+108192712546684|Đồng Hới
+104980992872842|Canada, Kansas
+111968525494138|Duc Trach, Ha Son Binh, Vietnam
+111948565495480|Thủ Đức, Hồ Chí Minh, Vietnam
+106085869430478|Kathmandu, Nepal
+113590611986222|Me Tri, Ha Noi, Vietnam
+110970792260960|Los Angeles, California
+103934556308311|Hải Dương
+114878888524752|Hồng Ngự
+115078335172773|Luc Yen
+114020205274665|Xuan Duc, Ha Nam Ninh, Vietnam
+113061118710659|Xa Vung Tau, Bà Rịa-Vũng Tàu, Vietnam
+108355609196221|Hsichih
+103720949666092|Phnom Penh
+108102979218213|Hollywood, Florida
+108663075831405|Bao Lac
+110586118968054|Nam Hoa, Binh Tri Thien, Vietnam
+113210235358518|Thái Lãng, Ha Nam Ninh, Vietnam
+107799302587452|Tan Ky
+110728875617444|Mai Châu
+106517799384578|New Delhi, India
+114847425195466|Phu Cuong, Song Be, Vietnam
+109812039042677|Ha-Nam, Hà Nam, Vietnam
+108138999213669|Điện Biên Phủ
+111577152196968|My Loc, Ha Nam Ninh, Vietnam
+106996295998353|Hà Nám, Ha Nam Ninh, Vietnam
+133571830058631|Quảng Trị
+111615515528234|Quynh Luu, Nghệ An, Vietnam
+113043818712800|Bac Son, Lạng Sơn, Vietnam
+115972681750561|Cam Pha
+114440648568349|Lái Thiêu
+110350038991351|Nhà Bè, Hồ Chí Minh, Vietnam
+106967662677485|Nghia Ã?An, Nghệ An, Vietnam
+101909889850330|Vu Ban
+103998542969809|Thái Nguyên
+106990276007359|Thu Hoa, Ha Nam Ninh, Vietnam
+113321415347567|Kampong Cham
+110745715619446|Lao Bao
+106279826069074|Tây Ninh
+109277959104151|Tra Vinâ?, Trà Vinh, Vietnam
+115357638478734|Rach Gia
+106301249409221|Ben Luc
+106050279435951|Quezon City, Philippines
+117252468288175|Dong Chau, Thái Bình, Vietnam
+109820749044124|Battambang
+109526399066760|Taoyuan District, Taoyuan
+111924802167390|Shinjuku
+109497189069518|Lạng Sơn
+110429408985819|Ninh Bình
+109053269122518|Cẩm Phả Port, Quảng Ninh, Vietnam
+115230725156058|Bac Ha
+113474915334935|Quat Lam, Ha Nam Ninh, Vietnam
+116405228372103|Truc Cat, Hải Phòng, Vietnam
+108212225873404|Kolkata
+108062092560276|Di An
+100244290016727|Da Dang, Quang Nam-Da Nang, Vietnam
+133366776726545|Shizuoka-shi, Shizuoka, Japan
+112856042074193|Dong Xoa, Bìn Phước, Vietnam
+110170955672252|Ogori
+112569345428475|Truc Chinh, Ha Nam Ninh, Vietnam
+103329106374890|Da Kao, Ho Chi Minh, Vietnam
+112458065439034|Con Cuông
+114511591898165|Kaohsiung, Taiwan
+115035575174086|Thanh Hoa, Long An
+110457042313059|Hung Yen, Hưng Yên, Vietnam
+100243450017768|Vinh Phuc, Hai Hung, Vietnam
+111684002191941|Con Son
+104936922876982|Đoan Hùng, Phú Thọ, Vietnam
+107512419285874|Trung Trinh, Hi Bac, Vietnam
+107459972613590|Ap Phan Boi Chau, Vietnam
+106505839384425|Ben, Bến Tre, Vietnam
+111554265540180|Thuan Hanh (1), Nghia Binh, Vietnam
+110730292284790|Beijing, China
+110885045606408|Thanh Ba
+111280998892699|Lac Son, Hòa Bình, Vietnam
+110863782274694|An Thi
+106790772685394|Binh Thanh, Hồ Chí Minh, Vietnam
+106985049332419|Ha Hai, Hai Hung, Vietnam
+108126032553728|Warsaw, Poland
+112747512071704|Funabashi, Chiba
+107128589319099|Phu Quoc, Kiến Giang, Vietnam
+103357286373132|Mai Phúc, Ha Noi, Vietnam
+113483512000061|Hoai Duc Phu, Ha Noi, Vietnam
+108288115858026|Korat, Thailand
+112216838795701|Miani, Punjab
+551833021629413|Aomori, Aomori
+106492836054076|Navotas
+111440988878577|Xóm Pho, Hà Nội, Vietnam
+114183551925573|Thái Bình
+122861451116821|Arakawa-ku, Tokyo, Japan
+105565836144069|Singapore
+122805867790104|Higashihiroshima-shi, Hiroshima, Japan
+191438147534359|Oyabe-shi, Toyama, Japan
+107862585903310|Son Tay
+112707435415706|Trung Hà, Ha Noi, Vietnam
+105653082800923|Liverpool
+113045052055040|Trang Viet, Ha Noi, Vietnam
+108081209214649|Las Vegas, Nevada
+112052795476842|San Miguel, Bulacan
+107755492587415|Khon Kaen
+113075615370303|Ba Vì, Ha Son Binh, Vietnam
+113393768672172|Tuyên Quang, Tuyên Quang, Vietnam
+108689012494410|Bạch Mai, Hanoi
+110235462332555|Thai Hoa
+114090545272012|Lo Gach, Long An, Vietnam
+113555601991646|Thanh Nhàn, Ha Noi, Vietnam
+105625472803375|Bekkevoort
+110643562296368|Busan, South Korea
+112963075384670|Vinh
+110784658941679|Nghia Lo
+103336399708010|Co Cao, Cao Bằng, Vietnam
+109252215761161|Yên Bái
+113456992001665|Vinh Long (3), Nghia Binh, Vietnam
+107389065957854|Kikuchi, Kumamoto
+108028762564501|Phú Thọ
+111368548885339|Ngoc Tao, Ha Noi, Vietnam
+111672068854884|Quan Nhan, Ha Noi, Vietnam
+112211758791895|Ashikaga, Tochigi
+271963079548530|Valencia
+114392968570855|Hòa Bình, Hòa Bình, Vietnam
+103287806379612|Bái Thượng, Thanh Hóa, Vietnam
+110352975652476|Macao, China
+178191738887157|Iruma-shi, Saitama, Japan
+110819095612914|Iquitos, Peru
+112597352084933|Tuy Hòa
+114275425250093|Danfeng County
+109772562387752|Thái Hõa, Nghệ An, Vietnam
+113721385310199|Di Nau, Vinh Phu, Vietnam
+111070818917271|Dubai, United Arab Emirates
+110114872352080|Tan Hoi, Vietnam
+113150292043981|Bac Can, Bắc Kạn, Vietnam
+110026055684013|Ban Yen Nhan, Hai Hung, Vietnam
+109057382455986|Canh Duong, Binh Tri Thien, Vietnam
+111175118906315|Berlin, Germany
+103128536393978|Rusia
+113227655359778|Pushkino, Moskovskaya Oblast', Russia
+112211432128177|Tri Tôn
+109923875704015|Dong Van
+150242435020153|Moscow, Russia
+109236645770909|Balaschicha, Moskovskaya Oblast', Russia
+107862399246929|Yên Thành
+108953282472029|Vân Môn, Ha Nam Ninh, Vietnam
+112660605411912|Fanthit, Bình Thuận, Vietnam
+104973222872461|Phan Rang-Tháp Chàm, Ninh Thuận, Vietnam
+111948542155151|San Jose, California
+108747619148221|Xa Phan Thiet, Bình Thuận, Vietnam
+107993685900141|Viet Tri
+116115021731939|Mũi Né
+100242273350819|Fantiet, Bình Thuận, Vietnam
+108737142491685|Long Khanh
+115957261747615|Tuy Phong
+109091652452570|Ap Binh Thuan, Minh Hai, Vietnam
+106330186072448|Bac Binh
+108104849224069|Lahore, Pakistan
+106415579391234|Phan Tiet, Bình Thuận, Vietnam
+113634448649072|Sài Gòn, Sóc Trăng, Vietnam
+112854312067085|Ma Lâm Chàm, Thuin Hai, Vietnam
+106724102695820|Lac Lam, Lâm Ðồng, Vietnam
+196106953772010|Long Thành
+107211922651394|Ca Na, Thuin Hai, Vietnam
+106507602717518|Xa Song Luy, Thuin Hai, Vietnam
+109477335744202|Quang Nam, Quang Nam-Da Nang, Vietnam
+112879388724654|Lagi, Thuin Hai, Vietnam
+109070742447057|Dalat, Pool, Congo
+103373559704766|Xom Gia Rai, Bạc Liêu, Vietnam
+104700966235048|Fan Thiet, Bình Thuận, Vietnam
+107388385964477|Châu Hòa, Bến Tre, Vietnam
+112531495426126|Cà Mau
+116007835080856|Malam, Thuin Hai, Vietnam
+108611699170405|Vi Thanh
+116277908386433|Xa Tan Lap, Vietnam
+108707615821090|Tacoma, Washington
+104270516279522|Tinh Pleiku, Gia Lai, Vietnam
+106324046073002|Shanghai, China
+116235655056979|Tánh Linh, Bình Thuận, Vietnam
+106009666106584|Di Linh
+109375032419909|Trung My Tay, Hồ Chí Minh, Vietnam
+107378295966762|Quang Tien, Thanh Hóa, Vietnam
+106220079409935|Nashville, Tennessee
+112209535471643|Hội An
+112199325473595|Tân Uyên
+110150759002784|Phú Xuyên, Ha Noi, Vietnam
+106521732714319|Dong Thap, Hoang Lien Son, Vietnam
+108571252499942|Alabat, Quezon
+160300197351040|Minato-ku, Tokyo, Japan
+114759761873412|Mumbai, Maharashtra
+104709889567553|Phan Ri Cua, Thuin Hai, Vietnam
+108483975850571|Dong Giang
+113537315323671|Dalat, Sarawak
+103327546376375|Tan Buu, Long An, Vietnam
+113354545346713|Ap Binh Thuan (2), Long An, Vietnam
+105830519457917|Tân Thành
+114003251947399|Can Thon, Ha Noi, Vietnam
+111288458893675|Phu Dinh, Hồ Chí Minh, Vietnam
+110076682348141|Phan Rang
+106965159335192|Mirpur, Dhaka, Bangladesh
+110315525661033|Hiep Hoa, Long An, Vietnam
+108541725842828|Cho Moi, An Giang
+110161112345635|Quang Ngai
+107683709255090|Dami
+106566059380422|New Orleans, Louisiana
+116326375049082|Ap Dinh Ba, Thuin Hai, Vietnam
+108663825829925|Chaudok, An Giang, Vietnam
+144878835628110|The Rocks, Sydney
+108024755897177|Haizhu
+116251081719227|Xa Tam Hung (1), Thuin Hai, Vietnam
+111427815547257|Cây Dừa, Kiến Giang, Vietnam
+108558555841831|Tanh Linh
+110159132339941|Vientiane, Laos
+110512632303092|Vĩnh Long
+105854549454082|Hàm Tân
+105854386120814|Sam Son
+107007546006881|Ap Hiep An, Thuin Hai, Vietnam
+108238772543817|Nga Son
+109011122464587|Phan Lý, Bình Thuận, Vietnam
+111915168830851|An Bình, Song Be, Vietnam
+105021912868462|Ap Binh Thuan, Bến Tre, Vietnam
+101654613207362|Long Hai, Vietnam
+115334175145414|Soc Trang
+110791202275388|Phù Yên
+112371458788866|Nhon Trach
+100238743351745|Phan Ri Thanh, Thuin Hai, Vietnam
+109182652443249|Quảng Yên, Quảng Ninh, Vietnam
+104296149610038|Ha Coi, Quảng Ninh, Vietnam
+106997169332575|Vàng Danh, Quảng Ninh, Vietnam
+104279872946304|Hon Gai, Quảng Ninh, Vietnam
+110548688973730|Hoanh Bo
+105547136146124|Gonghe County
+110714132287210|Hai Ha
+110711445620541|Uông Bí
+106370712734446|Quy Chau
+106287062743373|Barcelona, Spain
+182282575128185|Nakano-ku, Tokyo, Japan
+476591449028777|Canada, Kentucky
+107025962662658|Cai Rong, Quảng Ninh, Vietnam
+114980905185578|Bishkek, Kyrgyzstan
+110490908978582|San José del Cabo, Baja California Sur
+110860735604565|Gyeongju, Korea
+104347542939498|Khê Mao, Quảng Ninh, Vietnam
+110554702296060|Thanh Khê, Hai Hung, Vietnam
+110554858962190|Cam Pha Mines, Quảng Ninh, Vietnam
+106141019417608|Asan
+107004882673532|Duong Huy, Quảng Ninh, Vietnam
+111373282214381|Tiên Yên
+104934279543736|Tinh Kontum, Kon Tum, Vietnam
+108599629164810|Pagadian City
+106944026003231|Hoàn Lão, Quảng Bình, Vietnam
+105773999462846|Tam Ky
+113070245377460|Phu Giáo, Vietnam
+109360339083522|Alexandria, Virginia
+115963528414384|Houston, Texas
+105013059536080|An Lão, Bình Ðịnh, Vietnam
+112333758781159|Long Xuyên
+116346811710207|Yen Noi, Ha Noi, Vietnam
+110744932282192|Lac Nghia, Lâm Ðồng, Vietnam
+110252925659414|Củ Chi, Hồ Chí Minh, Vietnam
+105704502795115|Trang Bom
+109092592456712|Phú Mĩ, Lạng Sơn, Vietnam
+102184123156568|Minh Hóa
+114159085260961|Ninh Hòa, Khánh Hòa, Vietnam
+106826826014448|Chau Phú, An Giang, Vietnam
+106031246101831|Kuala Lumpur, Malaysia
+108169082548939|Bến Tre
+114222671922274|Cai Lay
+107143709324450|Ap An Luong, An Giang, Vietnam
+107339875970100|Chợ Gò Dưa, Hồ Chí Minh, Vietnam
+110292168989123|Phu Nhuan, Hồ Chí Minh, Vietnam
+108638579158729|Linh Xúân, Hồ Chí Minh, Vietnam
+108968092468983|Thới Bình, Cà Mau, Vietnam
+176816045691063|Kyotango-shi, Kyoto, Japan
+116045151742857|Munich, Germany
+109962119022443|Ota-shi, Gunma, Japan
+104612659577648|Bach Mai, Ha Noi, Vietnam
+108458742510900|Vietri, Phú Thọ, Vietnam
+111802142173545|Nam Thành, Ha Nam Ninh, Vietnam
+111899498825417|Thornlie, Western Australia
+112162542133611|Slavonice
+106530866047287|Phu Tho, Phú Thọ, Vietnam
+108263472534544|Matsudo
+110857882276141|Thanh Son
+105641672801586|Bac Kan
+112315752128140|Son Tinh
+115514111796550|Tu Son
+110874722270544|Lâm Thao
+107430505960402|Tu Son, Hi Bac, Vietnam
+109027395792691|Cầu Giát, Nghệ An, Vietnam
+103333109700345|La Son, Vietnam
+111651415523853|Hong Gai, Quảng Ninh, Vietnam
+134006909996933|Sagamihara-shi, Kanagawa, Japan
+110798222281854|Dai Loc
+106363839402536|Nam Giang
+110493568969451|Ai Nghia, Quang Nam-Da Nang, Vietnam
+109226295764303|Quận Năm, Quang Nam-Da Nang, Vietnam
+100248110017068|Hóc Môn, Hồ Chí Minh, Vietnam
+107873095912453|Hai Chau
+112031942146527|Dong Ha
+106129819417326|Tokio, North Dakota
+112700705413602|Hoi An, Quang Nam-Da Nang, Vietnam
+111465428882519|Dai Son, Quang Nam-Da Nang, Vietnam
+104982219538312|Ha Lam, Quang Nam-Da Nang, Vietnam
+112167638807389|Thôn Sáu (6), Quang Nam-Da Nang, Vietnam
+110063402356993|Płock, Poland
+107396472629318|Que Son, Quảng Nam, Vietnam
+107311745970619|Ã?A Nang, Ðà Nẵng, Vietnam
+109442775742673|Khanh Hoa, Khánh Hòa, Vietnam
+110191339006945|Gia Lai, Gia Lai, Vietnam
+113210745360561|Paris, Tennessee
+107308299304641|Ã?Ai Loc, Quảng Nam, Vietnam
+112080362152075|Thang Binh
+108177959213853|Ngoc Hoi
+103352346372979|Truc Ha, Quang Nam-Da Nang, Vietnam
+111734478850384|Hà Tân, Quảng Nam, Vietnam
+107198922651583|Nam �Àn, Nghệ An, Vietnam
+111629348865325|Phú Trung, Hồ Chí Minh, Vietnam
+113173135363514|Kon Tum
+109888412374190|My Tho
+100244066683868|Vinh Thanh, Tiền Giang, Vietnam
+108206999203128|Osaka
+112172772141867|Chongqing, China
+114419638568114|Tâm Hiêp, Quang Nam-Da Nang, Vietnam
+101896633185200|Bo Trach
+110597548961090|Lien Chieu
+108203205880819|Duy Xuyên
+110380158980441|Yen Dinh, Thanh Hóa, Vietnam
+101892793186042|Penang, Malaysia
+113144145371672|Thanh Bình, Ðồng Tháp, Vietnam
+116190501730598|Phu My, An Giang, Vietnam
+105469112820027|Tra Vinh
+106478116051733|Xuân Mai, Ha Son Binh, Vietnam
+108640515825480|Angiang, An Giang, Vietnam
+112726978744216|Rach Gia, Vietnam
+107966839224016|Cedar Rapids, Iowa
+115272148484153|Cai Rang
+110651408960311|Ap My Tho, Tiền Giang, Vietnam
+110136522349903|Binh Chuan, Song Be, Vietnam
+112714518745084|Phu My, Vietnam
+110302498991562|Tinh Bien
+107430329294327|Ap Tan Phu Ha, An Giang, Vietnam
+114764855205303|Binh Thuy
+108135415874412|Tân Châu
+110765362279102|Taipei, Taiwan
+115496845128612|Ap My Thoi, An Giang, Vietnam
+116021925079937|Binh Trung, An Giang, Vietnam
+110845308938591|Khu Vuc, Cà Mau, Vietnam
+113418265340803|Phuoc Binh, Song Be, Vietnam
+109090472446570|Cho Do Luong, Nghệ An, Vietnam
+112845412063341|Padang, Indonesia
+106183886087178|Riyadh, Saudi Arabia
+110516482301368|Gò Công, Hồ Chí Minh, Vietnam
+107396542629587|Ba Hòn, Kiến Giang, Vietnam
+115768235102970|Bu N'Doc, Song Be, Vietnam
+100545253319509|Changi, Singapore
+106522539380517|Tinh, Sóc Trăng, Vietnam
+112741738744816|Cho Thu Thua, Long An, Vietnam
+115892801756586|Ap Vinh Thanh, An Giang, Vietnam
+114818765201295|Giong Rieng
+109100985775196|Bintulu
+112011248824410|George Town, Malaysia
+112698895414136|Phú Tân
+110884905606108|Sydney, Australia
+106504859386230|Madrid, Spain
+112453185438062|Gò Dầu Hạ, Tây Ninh, Vietnam
+113122515367293|Camau, Ntcheu, Malawi
+106483086056052|Chau Phu
+113308472017956|Ca Maureau, Sud-Est, Haiti
+113056758721001|Cai Nuoc, Cà Mau, Vietnam
+106013296103717|Que Phong
+108242839208810|Cao Lãnh
+114120778603884|Ben Cat
+103767749662650|Tân Phú
+103997596304751|Phú Bình
+111788575507612|Phung Hiep
+103122349727472|Pleiku
+106483032720340|Kien Luong
+107796239242191|Songkhla
+109028405796488|Camo, Cà Mau, Vietnam
+115804921769470|Tuyen Nhon, Long An, Vietnam
+111562912198368|Hoa Hao, An Giang, Vietnam
+111934462156212|İzmit
+109955815700240|Cái Bè
+115186165161937|Havana, Cuba
+110793072278371|Nam Can
+102012339834565|Changi Village, Singapore
+113119002048693|Ap My Hoa (1), Ðồng Tháp, Vietnam
+110434058976212|Bach Lieu, Bạc Liêu, Vietnam
+111877735498369|Thap Muoi
+104370759602532|Phú Xuân, Phu Khanh, Vietnam
+100246500017000|An Giang (4), Nghia Binh, Vietnam
+111455145549724|Nam Can, Minh Hai, Vietnam
+112636852081763|Dong Xoai
+101889586519301|Dhaka, Bangladesh
+105911206109063|Phú An
+113553965330398|Ap Phu Hoa (1), An Giang, Vietnam
+109466412413228|Nantou City
+109052582462290|Vinh Thuan (1), Kiến Giang, Vietnam
+104300666276941|Pinang, Pulau Pinang, Malaysia
+102173726491792|Jakarta, Indonesia
+109644412393224|Rach Soi, Kiến Giang, Vietnam
+111069018917944|Kim Son
+104931942877883|Hakama, Irbid, Jordan
+111195415570335|Hiep Xuong, An Giang, Vietnam
+106514006053250|Kyoto, Japan
+112303195463449|Lap Vo
+108536245843925|Hà Tĩnh
+106025269436992|Medan, Indonesia
+104661799571954|Ban Saen Suk, Chon Buri, Thailand
+112853685398969|Tang Nhon Phu, Hồ Chí Minh, Vietnam
+109704349046024|Tan Phu, Vietnam
+110527845636104|Cho Gao
+108525715838806|Malang
+108611989171088|Santa Cruz de la Sierra, Bolivia
+110634518965327|Cua Lo
+107879769240188|Tomball, Texas
+109972075699000|Tainan, Taiwan
+104327282941001|Binh Thuy, An Giang, Vietnam
+115049958508783|Bavet, Svay Rieng, Cambodia
+110353815656917|Ba Chuc, An Giang, Vietnam
+113513181994554|Can Thanh, An Giang, Vietnam
+106543312714205|Thot Not
+105941119426198|Châu Thành, Vietnam
+108685292487589|Kiên An, An Giang, Vietnam
+104353062938327|Tan Binh, Ðồng Tháp, Vietnam
+116713251676777|Búng, Song Be, Vietnam
+109051425794734|Phum Cô Tô, An Giang, Vietnam
+113080425371057|Huyen Chau Thanh, Kiến Giang, Vietnam
+115987705080445|Cho Moi, Hồ Chí Minh, Vietnam
+113260422022776|Hoa Binh, An Giang, Vietnam
+115178838492677|Khe Sanh, Binh Tri Thien, Vietnam
+104311986275195|Bach Ma, Thừa Thiên-Huế, Vietnam
+115004348511170|Huong Tra
+104310219608777|Huong Ã?Ien, Thừa Thiên-Huế, Vietnam
+104634099575488|Vientane, Vientiane, Laos
+106478449388242|Trieu Phong
+100242973351037|Hue, Ohio
+114952118516947|San Francisco, California
+102164239825190|Kabul, Afghanistan
+103354079707109|Trung Khanh Phu, Cao Bằng, Vietnam
+109390902418436|B'Sar Dong, Lâm Ðồng, Vietnam
+102262733182321|Sapporo-shi, Hokkaido, Japan
+106890666009314|Thi Xã �Òng Hà, Quảng Trị, Vietnam
+116755555004726|Muong Vang Cau, Savannakhet, Laos
+104956232873408|Hoài Ân, Bình Ðịnh, Vietnam
+104903689546377|Phùng Khoang, Ha Noi, Vietnam
+111244068899165|Le Thuy, Quảng Bình, Vietnam
+106497972719166|Anh Son
+101894823186182|Gia Nghia
+107002132664472|Cao Bang, Binh Tri Thien, Vietnam
+116217591725667|Songkau, Phú Yên, Vietnam
+109149732439896|Dinh Ã?Ien Hoa My, Binh Tri Thien, Vietnam
+106266729409144|Huong Thuy
+106377979386476|Clementi, Singapore
+113588915318031|Kim Long
+112777125414674|Na Lao, Savannakhet, Laos
+114704121879515|Gia Vien
+108777532488422|Binh Hung Hoa, Hồ Chí Minh, Vietnam
+107832305917931|Nishinomiya, Hyogo
+113474015330501|Cam Ranh Port, Khánh Hòa, Vietnam
+109345662423851|Phú Bai, Binh Tri Thien, Vietnam
+115464538467536|An Nhon
+115665868449921|Pho Ninh, Binh Tri Thien, Vietnam
+109295752421654|Edison, New Jersey
+113168482030203|Riverside, California
+110443695643900|Luoyang, Henan
+106487832719737|Fuchu, Hiroshima
+108659242498155|Chicago, Illinois
+108127182549256|Jacksonville, Florida
+110941395597405|Toronto, Ontario
+109571329060695|Surrey, British Columbia
+108663225822794|Yen, Vĩnh Phúc, Vietnam
+106596522707074|Ban Dong Nai, Chiang Mai, Thailand
+108419299187879|Nhà Bàng, An Giang, Vietnam
+106248412747534|Kinh Môn
+110231725673017|Trà Ôn
+108729979147301|Hoài Nhon, Bình Ðịnh, Vietnam
+106063092765281|Lam Ha
+110473805639090|Vinh Phuc, Ha Noi, Vietnam
+112075222143137|Tulcea
+111858828838073|Truong Long, Vietnam
+113113858714886|Ap Hung Thoi, Cẩn Thỏ, Vietnam
+102176779824158|Long My
+109945072362264|Binh Minh
+113241645367968|Erh Tieng Tien Tze, Heilongjiang, China
+112168488806891|Hớn Quản, Bìn Phước, Vietnam
+116017038414234|Bu Dang (2), Song Be, Vietnam
+116677008346408|Phu Luu Te, Ha Son Binh, Vietnam
+106450359391607|Thuan Thanh
+113139385378657|Ap Nhon Tho (1), Vietnam
+107433405960686|Phu-Kinh-Mon, Hai Hung, Vietnam
+103786802993110|Mbandaka
+102164409825221|Phù Cát
+100541593320184|Phuoc Vinh, Vietnam
+113138805364947|Phu Dien Chau, Nghệ An, Vietnam
+108129322550231|Ung Hoa, Ha Son Binh, Vietnam
+106043486101543|Huu Lung
+110384128981647|Bu Dang
+107252359311945|Lai Thanh, Thanh Hóa, Vietnam
+113241288702144|Ap Tan Thanh (1), Long An, Vietnam
+116356585041683|Mo Cay
+113306745351656|Phú Túc, Gia Lai, Vietnam
+106015676104859|Ba Tri
+133403010033062|Thủ Đức District
+109376065753094|Bình Long, Bìn Phước, Vietnam
+115091618507162|Yên Mô
+111811235506587|Huong Thanh Phu, Bến Tre, Vietnam
+107020369338029|Plei Kly, Gia Lai, Vietnam
+110468562315381|Can Giuoc
+107418579295358|My Hanh, Long An, Vietnam
+111475442205669|Lap Thach
+110812218948985|Ba Càng, Cuu Long, Vietnam
+111520935533848|Buon Me Thuot
+111663368854432|Phuoc Binh, Bìn Phước, Vietnam
+112802472073067|Linh Ho, Ha Tuyen, Vietnam
+110595035633603|Tuy An, Phú Yên, Vietnam
+112172588807745|Huong Cau Ke, Trà Vinh, Vietnam
+110300685655705|Ấp Hô Phòng, Bạc Liêu, Vietnam
+116181531728035|Châu Trúc, Nghia Binh, Vietnam
+110814265609032|Cau Ke
+110964048927077|Bản It Ong, Sơn La, Vietnam
+109378045759505|Phong Ã?Ien, Cẩn Thỏ, Vietnam
+114659075213600|Yen The
+112085598811127|Incheon, Korea
+108867325807369|Chunan, T'Ai-Wan, Taiwan
+112804332070583|Pho Binh Gia, Lạng Sơn, Vietnam
+111931965498651|Quan Dak To, Kon Tum, Vietnam
+109486205750245|Qui Nhon, Bình Ðịnh, Vietnam
+114745578542648|Chon Thanh
+114461521904650|Moc Chau
+111791228847381|Lac Duong
+112022142158778|Thanh Lôc, Hồ Chí Minh, Vietnam
+108787659144088|Cànglong, Trà Vinh, Vietnam
+102167563157899|Vung Liem
+119216908148621|My Khanh, Vietnam
+107980592569384|An Biên
+109312235756517|Vân Canh (1), Bình Ðịnh, Vietnam
+107410819296104|Buôn Krông K'Mar, Đắc Lắk, Vietnam
+106616302706352|Hiep Hoa, Hi Bac, Vietnam
+115926495085923|Tan Thuan, Hồ Chí Minh, Vietnam
+112991802053954|Long Hòa, Trà Vinh, Vietnam
+116048365078030|Liverpool, New South Wales, Australia
+111829625508023|Phúc Ninh, Ha Tuyen, Vietnam
+106354812730438|Hương Khê, Hà Tĩnh, Vietnam
+109121749121722|Kim Bang, Ha Nam Ninh, Vietnam
+110383515657968|Cho Lach
+104262349610376|Phú Khê
+106585666045091|Gio Linh
+185263588158539|Okayama-shi, Okayama, Japan
+103796782993074|Naha, Okinawa
+107831159249946|Phúc Yên
+101873113187604|Ba Don
+112089428815888|Xuân Lộc, Ðồng Nai, Vietnam
+116714191676894|Ap Ben Cau, Tây Ninh, Vietnam
+104062209630306|Avondale, Arizona
+115221125158582|Bremen, Germany
+116190411724975|Melbourne, Victoria, Australia
+105534786145691|Forest Park, Georgia
+103710529667612|Gò Công
+112251215467899|Massagno, Switzerland
+105496969485252|University Place, Washington
+107818412580173|Flagstaff, Arizona
+101881036520836|Philadelphia, Pennsylvania
+110576052304106|Vlaardingen, Netherlands
+107991659233606|Atlanta, Georgia
+104877562883229|Châu Thành, Tiền Giang, Vietnam
+103803679658752|Garden Grove, California
+108451139178673|Cambridge, Ontario
+107983435897193|Fresno, California
+108591349161413|Kansas City, Missouri
+105540216147364|Phoenix, Arizona
+113104752037293|South Pasadena, California
+112932592055829|Hô Chi Minh Ville, Hồ Chí Minh, Vietnam
+121570741247255|Kobe-shi, Hyogo, Japan
+108463025850668|Port Coquitlam, British Columbia
+112083848802971|Baldwin Park, California
+112433125435210|Blaine, Minnesota
+104002769637127|Glendale, Arizona
+110710585624249|Bielefeld, Germany
+102184499823699|Montreal, Quebec
+109659935727217|Tietê, São Paulo
+111723635511834|Bellevue, Washington
+112381675445491|Brockton, Massachusetts
+111815465501969|Spring, Texas
+107007246006302|Ap An Hoa, An Giang, Vietnam
+109548415744145|Dân Sinh, Hồ Chí Minh, Vietnam
+110469458975062|Can Duoc
+109266172434095|Hoàng Mai, Hi Bac, Vietnam
+671465409535958|Taitung City
+115744765108894|An Long, Ðồng Tháp, Vietnam
+113215988690018|Goseong, Kyŏngsang-Namdo, Korea
+112403592119341|Chi Lang
+111376125550724|Xóm Tân Thành, Long An, Vietnam
+116261648387860|Tân Long, Vietnam
+115868798427114|Xa Phuong Lam, Vietnam
+110264489002302|Chungli
+106951842670102|Xuân Hòa, Vĩnh Phúc, Vietnam
+105479276152349|Lai Chau
+109281999095398|Yên Bài, Ha Noi, Vietnam
+110382918991142|Van Giang
+108042889229336|Ha Hoa
+104025369633396|Naju
+111314938892253|Tran Yen
+109051552455804|Laokai, Lào Cai, Vietnam
+115945108416817|Lak, Đắc Lắk, Vietnam
+112931788721121|Sa Pa
+109583452406868|Ngu Uyen, Hi Bac, Vietnam
+110617308959778|Phù Ninh
+108975812456771|Thanh Hoa, Nghia Binh, Vietnam
+111786105507069|Quy Hop
+112077065484753|Vinh Tuong
+108875942470598|Kurayoshi, Tottori
+109583292399797|Diên Khánh, Khánh Hòa, Vietnam
+110677545619322|Cho Lon
+111772378843765|Huu An, Tiền Giang, Vietnam
+113391222009657|Hung Nhan, Thái Bình, Vietnam
+109317445755332|Tho Tang, Ha Noi, Vietnam
+116359075045797|Tuy Loc, Hoang Lien Son, Vietnam
+103374869704927|Luong Son, Hoang Lien Son, Vietnam
+104917412877900|Mau A, Hoang Lien Son, Vietnam
+106100439420374|Gyeongsan
+113135802045540|Tam Đảo, Vĩnh Phúc, Vietnam
+108679969164197|Nghi Xuân
+107925612568471|Plano, Texas
+115650661782482|Oklahoma City, Oklahoma
+106920359339465|An Duong, Hải Phòng, Vietnam
+116597941688062|Bình Thanh (1), Hồ Chí Minh, Vietnam
+108363292521622|Oakland, California
+106375136061467|Hayward, California
+116430305037738|Nong Son, Quang Nam-Da Nang, Vietnam
+106979629342546|Son Hai, Thuin Hai, Vietnam
+107327532637405|My Khe, Quang Nam-Da Nang, Vietnam
+115924141755052|Himeji, Hyogo
+107255359304556|Carrollton, Texas
+109217615764526|Harrison, Georgia
+109689269057886|Clearwater, Florida
+110961418933840|Cam Lâm, Khánh Hòa, Vietnam
+112852795395428|Seminole, Florida
+114296311917560|Koblenz, Sachsen, Germany
+110434045644785|Odate, Akita
+107413405955233|Huntington Beach, California
+107333712635933|Phu My, Nghia Binh, Vietnam
+109449362414385|Gilbert, Arizona
+112446968766886|Cam Ranh
+108349192529316|Cam Lâm
+105067312862855|Vinh Bao, Hải Phòng, Vietnam
+100245166683562|Ban Nam Ca Dinh, Bolikhamxai, Laos
+106053152758785|Faisalabad
+115069118509120|Tien Hai
+104139506288600|Hương Sơn District
+143791559012117|Osakasayama-shi, Osaka, Japan
+103988436299002|Xa Trang Bom, Vietnam
+112142408804509|Diên Khánh
+111611588867416|Djrott, Lâm Ðồng, Vietnam
+110904208934544|Thanh Chuong
+106306812739694|Jaipur, Rajasthan
+111762725508574|Dallas, Texas
+107357592626761|East Hartford, Connecticut
+112084802143084|Mainz, Germany
+116055188410746|Phuoc An, Đắc Lắk, Vietnam
+106003956105810|Boston, Massachusetts
+113232905360256|Ap Tan Ha, Lâm Ðồng, Vietnam
+111983945494775|Calgary, Alberta
+107624535933778|London, Ontario
+104897822881134|Buôn Hô (1), Đắc Lắk, Vietnam
+110184922344060|Washington, District of Columbia
+107453995950866|Lynn, Massachusetts
+109466749080103|Winthrop, Massachusetts
+108407319184031|Methuen, Massachusetts
+110965948933599|San Stino Di Livenza, Veneto, Italy
+112846768729872|Lawrence, Massachusetts
+114829998534302|Arlington, Virginia
+105596609473837|Worcester, Massachusetts
+103831232989200|Budakeszi
+108544729170421|Malden, Massachusetts
+108332329190557|Garland, Texas
+109465862413685|Toporec
+104169252951647|Melrose, Massachusetts
+105427016157398|North Andover, Massachusetts
+112365168780657|Woburn, Massachusetts
+103123443062001|Danvers, Massachusetts
+105588396141213|Salem, Massachusetts
+108360209191355|Lowell, Massachusetts
+111878378838316|Soja, Okayama
+103916052979025|Salisbury, Massachusetts
+111533728867593|Can Thanh, Hồ Chí Minh, Vietnam
+107843275905322|Haverhill, Massachusetts
+108347462523015|Chattanooga, Tennessee
+108070662555091|Saugus, Massachusetts
+106097706088767|Durham, New Hampshire
+109415959077752|Swampscott, Massachusetts
+110374158983288|Hefei, China
+110444738976181|Honolulu, Hawaii
+109606545732803|St Albans, Victoria
+111699902188632|Ngai Xuyen, Cuu Long, Vietnam
+109948789027802|Cam Xuyen
+111985138828696|Sandefjord, Norway
+104685096237491|Phú Yên (1), Quang Nam-Da Nang, Vietnam
+110468792308192|Sông Cầu
+109636175727079|Ulefoss, Telemark, Norway
+108122012549809|Moss, Norway
+107054125992057|Tuy Hoa, Thuin Hai, Vietnam
+106973042666725|Binh Hoa, Song Be, Vietnam
+113649061979510|Phú Yên, Ha Son Binh, Vietnam
+103630416340111|Buôn Hô, Đắc Lắk, Vietnam
+111605825522148|Ogden, Utah
+109329849089172|Phú Yên (1), Gia Lai-Cong Tum, Vietnam
+104132019624700|Simi Valley, California
+100563866688613|Kawasaki-shi, Kanagawa, Japan
+115901371756898|Tây Hòa
+110564495628518|Binh Duong, Quang Nam-Da Nang, Vietnam
+108872385813004|Ban Dak, Đắc Lắk, Vietnam
+106952542678869|Huong Cau Ngang, Trà Vinh, Vietnam
+108792569151900|My Hao
+234091406612038|Chikusei, Ibaraki
+138235456238235|Nagareyama-shi, Chiba, Japan
+222138537801837|Siheung
+108147912546632|Daegu
+115930121751357|Hai-Doung, Hải Dương, Vietnam
+109447862413880|Haidöng, Hải Dương, Vietnam
+107291262639676|Hoàng Gia, Hai Hung, Vietnam
+156071674442757|Shibetsu-gun, Hokkaido, Japan
+141908935883066|Pyeongtaek
+113164872029973|Real Cortijo, Madrid, Spain
+105612019472372|Daejeon
+114259518587734|Binh Luc, Hà Nam, Vietnam
+112465532101943|Jeonju
+107497889286297|Cam Van, Hải Phòng, Vietnam
+108414429183380|Chungju
+110027905682062|New York, Norfolk, United Kingdom
+112235542121621|Gwangju, Gyeonggi
+106314346072702|Lucca, Italy
+106578779375574|New York, Florida
+109205115773953|Hai Dzung, Hải Dương, Vietnam
+103946609642021|Jecheon
+112435832101449|Fussa, Tokyo
+185722964790993|Usa-shi, Oita, Japan
+108286535862860|Konstanz
+111812498835289|Haiyang
+108309699200156|Phoenix (mythology)
+179060202124290|Phu My, Vietnam
+121336244603804|Ota-ku, Tokyo, Japan
+111570268863273|Phu Loc, Hai Hung, Vietnam
+160995790628680|Yeoju
+109610069057800|Musashino, Tokyo
+103338939708143|Xom Lo Gach, Kiến Giang, Vietnam
+103139476393436|Hà Tiên
+109588672405128|Giomtrom, Bến Tre, Vietnam
+113153615361414|Jerantut
+111769825516794|Buraydah
+106274672743031|Quang Trach
+104886459546654|Arabia, Ohio
+112468622112124|Shippegan, New Brunswick
+109022329119710|Thanh Hoa, Nghe Tinh, Vietnam
+115396908474341|Vinh Chau
+109800982364415|Gia Kiem, Vietnam
+104146999622524|Arlington, Texas
+108957229128724|Chuncheon
+105614539471753|Vinhedo
+111869988834452|Le Xuyen, Binh Tri Thien, Vietnam
+112799918747105|Xieng Khouang, Xiangkhoang, Laos
+106183376079292|Johor Bahru
+125020147565665|Tan Lap, Vietnam
+107838405904596|Hirosaki, Aomori
+111311112231835|Al Muradiyah, Diyala, Iraq
+110240662338586|Dien Ban
+112456468765632|Beverly Hills, California
+110082172344471|Son La Chau, Sơn La, Vietnam
+122171377852522|Fukuoka-shi, Fukuoka, Japan
+111945735499761|Lap Thach, Nghe Tinh, Vietnam
+108931222473806|Fugang, Jiangxi, China
+110518695633503|Yen Ky, Vinh Phu, Vietnam
+114313168585529|Cam Khe
+105007649536505|Hòa Bình, Hai Hung, Vietnam
+109568822408654|Hung Long, Vinh Phu, Vietnam
+159738940740201|Shinagawa-ku, Tokyo, Japan
+109529635739543|Ishinomaki, Miyagi
+109441179073973|Kumamoto, Kumamoto
+110375145649561|Thanh Thuy
+109328979089259|Ha Loc, Vinh Phu, Vietnam
+105823282791353|Hàm Yên
+115332541814829|Ako, Hyogo
+110047605684488|Le Thuy
+112686518757345|Likino, Sverdlovskaya Oblast', Russia
+106550732711726|Gíu Ngãi, Quang Nam-Da Nang, Vietnam
+110281188990115|Ap Quang Binh, Cuu Long, Vietnam
+114077018605776|Kwang Binh, Quảng Bình, Vietnam
+110284322332411|Hai Lang
+108266095860419|Kanazawa, Ishikawa
+108587709171114|Fengyüan, T'Ai-Wan, Taiwan
+114014508612954|Saumlaki, Maluku, Indonesia
+114432131903052|Nghia Hanh
+969217789760883|Toyama, Toyama
+108895182472684|Thach Ban, Binh Tri Thien, Vietnam
+110237339005854|Kakogawa, Hyogo
+109403045756713|Tân Thới Nhứt, Hồ Chí Minh, Vietnam
+110695398951320|Caloocan
+107041065994446|Daya
+111728892178150|Tuyên Hóa
+107745065915449|Huntington, New York
+107003439331474|Loc An, Binh Tri Thien, Vietnam
+115977995080450|An Phong, Ðồng Tháp, Vietnam
+113541848657845|Tràm Chim, Ðồng Tháp, Vietnam
+107363372633183|Như Xuân, Thanh Hóa, Vietnam
+112276732125400|Winnipeg, Manitoba
+117663704910302|Suwonni, Kaesong-Si, Korea
+115603861784059|An Khê, Gia Lai, Vietnam
+106325172737569|Bronx, New York
+108108499217446|Bern
+111985875484938|Des Moines, Iowa
+110635845624288|Hoài Ân
+135231743161924|Thiruvalla (Tiruvalla), India
+106187686078679|Depok
+104634519575775|Sadek, Cuu Long, Vietnam
+104033399634478|Alameda, California
+107407505962590|Huong Tra Cu, Trà Vinh, Vietnam
+108507649172555|Phu Rieng, Bìn Phước, Vietnam
+108143959213846|Darwin, Northern Territory
+109964572359656|Kompong Thom
+107507939267185|Ho Nai, Vietnam
+106157532748212|Myans
+108576292507505|Dau Tieng
+108538305837823|California City, California
+112584798755439|Hialeah, Florida
+112788068736149|Burien, Washington
+107715999258088|Yorktown, Virginia
+115217241824342|Hsinchu, Taiwan
+106686876031511|Tapei, T'Ai-Wan, Taiwan
+104691256236695|Chang Hwa, T'Ai-Wan, Taiwan
+114987875182625|Pingtung (disambiguation)
+111661088861981|Dai Dien Trung, Phu Khanh, Vietnam
+112229912137597|Changhua
+117202204956793|Bon H'Drong, Song Be, Vietnam
+107021949338078|Vin, Nghệ An, Vietnam
+104747446230885|Bang Pakong, Chachoengsao, Thailand
+126307187436740|Niigata-shi, Niigata, Japan
+108081215885879|University Heights, Ohio
+108987959128828|Kim Mã, Ha Noi, Vietnam
+100240306684382|Ninh Bình, Phu Khanh, Vietnam
+108323735854485|Sendai
+115690551775293|Mong Duong, Quảng Ninh, Vietnam
+191471497536412|Adachi-ku, Tokyo, Japan
+108992912462243|Hoang Cau, Ha Noi, Vietnam
+107100439328317|Tân Bình, Hồ Chí Minh, Vietnam
+108918285804681|Cần Giờ, Hồ Chí Minh, Vietnam
+113669785310357|Luong Hoa, Long An, Vietnam
+111059188918120|Moc Hoa
+110520428969630|Sasayama, Hyogo
+112844885397848|Buena Park, California
+112449675437281|Anaheim, California
+104011656301048|Palm Desert, California
+105987659433037|Mehsana
+102155853159688|Mansoura
+113370178677731|The Woods
+110505572310448|Vladimir, Russia
+110542582304665|Hosh `Isa, Al Buhayrah, Egypt
+108133485875287|Batala
+106322966073780|Manila, Philippines
+104706492901076|Ấp Tháp Mười, Tiền Giang, Vietnam
+116148998400951|Do Hai, Hải Phòng, Vietnam
+110920568928263|Long Thanh
+111663698852329|Tunis, Tunisia
+106201349415449|Quynh Nhai
+112614492083558|Neuharlingersiel
+115736885110228|Phieng Chieng Le, Sơn La, Vietnam
+106352056065466|Thanh Oai, Ha Son Binh, Vietnam
+108801642474189|Xuan Dinh, Ha Noi, Vietnam
+109569385741304|Bon Phang, Sơn La, Vietnam
+104676242905130|Võ Xu, Thuin Hai, Vietnam
+108260802527498|Miami Beach, Florida
+112066362141596|Deftinge
+107097599328384|Mêpu, Thuin Hai, Vietnam
+103838202988941|Namchi
+114910895186758|Cao Phong
+113774751966787|Cao Phong, Ha Son Binh, Vietnam
+109364212420923|Vinh Yen, Nghe Tinh, Vietnam
+112111905481230|Brooklyn, New York
+104700266234846|Ky Son, Ha Son Binh, Vietnam
+107375199297717|Tây Phong, Ha Son Binh, Vietnam
+115041798510188|Trang Bang
+109296595757222|Khuong Ha, Ha Noi, Vietnam
+110260015658940|Hoa Bin, Hòa Bình, Vietnam
+105758929457093|Dortmund
+107778155916851|Ha Dong
+110507998976900|Bratislava, Slovakia
+115104881837942|Charlottetown, Prince Edward Island
+114641461882726|Hạ Long, Hi Bac, Vietnam
+106487912721749|Chengdu, Sichuan
+112730938745249|Monte-Carlo, Monaco
+110221372332205|Frankfurt, Germany
+105638029469653|Tampa, Florida
+111777152182368|Amsterdam, Netherlands
+104005829635705|Gothenburg
+112818038737108|Gia Quat Ha, Ha Noi, Vietnam
+108581069173026|Milan, Italy
+109331452427743|Hà �Ông, Hà Tây, Vietnam
+108915525797761|Diamond, United States
+109084245780481|Thuy Khue, Ha Noi, Vietnam
+108252552529332|Perth, Western Australia
+107933505906257|Venice, Italy
+106362909397911|Katowice-Dab, Katowice, Poland
+108231342537990|Palm Springs, California
+105733206128254|Machida, Tokyo
+114556295221741|Chanel, Artibonite, Haiti
+102189213155511|Salzburg, Austria
+167156293320852|Edogawa-ku, Tokyo, Japan
+116191011729219|Fu Li, Hà Nam, Vietnam
+107147459323818|Vinh Tuy, Ha Noi, Vietnam
+112038798821344|Lac Trung, Ha Noi, Vietnam
+110313098992271|Leipzig, Germany
+111449718877107|Vân �Ình, Hà Tây, Vietnam
+115105165169421|Tianjin, China
+104321506274352|Van Dinh, Ha Noi, Vietnam
+107363575948091|Madagui, Vietnam
+114673375215225|Mai Son
+104699306235854|Bát Trang, Ha Noi, Vietnam
+109473279084665|Phuoc Lai, Vietnam
+111267615564178|Kim Bôi
+107444389292600|Thinh Làng, Ha Son Binh, Vietnam
+109410975752016|Sakura, Chiba
+112898992060120|Noi Xa, Ha Son Binh, Vietnam
+110522752308646|Dvur Kralove Nad Labem
+100245370016876|Nho Lâm, Ha Noi, Vietnam
+115723065106843|Ngo Xa, Ha Son Binh, Vietnam
+116276771717073|Vu Noi, Ha Son Binh, Vietnam
+116018955079982|Phùng Xá, Ha Nam Ninh, Vietnam
+103316563044079|Doàn Xá, Ha Son Binh, Vietnam
+108663179157239|Mương Té, Lai Châu, Vietnam
+108963042460567|Vang Ma Chài, Lai Châu, Vietnam
+110795758948249|Phong Tho
+111399685547725|Ban Co Noi, Sơn La, Vietnam
+109678462397825|Muong So, Lai Châu, Vietnam
+111767958842196|Sin Ho
+108266015873075|Muong Te
+109450692419743|Phu-Li, Hà Nam, Vietnam
+114617071885588|Luân Châu, Lai Châu, Vietnam
+112637985420708|Buôn Krông Buk, Đắc Lắk, Vietnam
+108996119133813|A Luoi (1), Binh Tri Thien, Vietnam
+103111629728400|Helong
+108173282536559|Sirsa, Haryana
+136314006428467|Mao Khe, Vietnam
+109499535747328|Mans, Quảng Ninh, Vietnam
+108934529127810|Bai Chay, Quảng Ninh, Vietnam
+109320032425357|Trang Bach, Quảng Ninh, Vietnam
+104928139543335|Dong Dang, Quảng Ninh, Vietnam
+109916022364166|Nottingham, United Kingdom
+108337745853447|Santa Ana, California
+114556898555700|Ranchi, Jharkhand
+111731608844999|Vinh Cuu
+106064732757185|Cheongju
+102075559829948|Tam Hiep, Vietnam
+103103056397247|Corpus Christi, Texas
+108512899173208|Belluno
+111326725552547|Saint Petersburg, Florida
+111555832200109|Tuy Tinh Cham, Thuin Hai, Vietnam
+111649395528170|Kharkov, Ukraine
+106456079391157|Kazan, Tatarstan
+103110656395249|Cheb
+112896728726781|Osinovo, Tatarstan, Russia
+100243870017792|My Hiep, An Giang, Vietnam
+103358053038590|Ấp Mỹ Thuận (1), Tiền Giang, Vietnam
+111450065549569|Ap Hoa Hung, Tiền Giang, Vietnam
+108277892527193|Bucheon
+110557065632909|Matamata, New Zealand
+108109819210122|Oceanside, California
+107976852557505|Missouri City, Texas
+104023459634857|Dayton, Ohio
+116272231718853|Thon Thuong Diem, Thuin Hai, Vietnam
+299345923426656|New Taipei City
+108981799125381|Long An, Tiền Giang, Vietnam
+114792238537468|Andong, Korea
+104110252957978|Yongin
+112547558764752|Dong Son, Vietnam
+109380002415738|Masan, P'Yongan-Bukto, Korea
+210854148933782|Chilgok
+103826889656659|Gwangju
+113143832045574|Hương Ngọc Lac, Thanh Hóa, Vietnam
+106085662763201|Lai Vung
+102220046518742|Unzen-shi, Nagasaki, Japan
+108212982532981|Anseong
+109192492441462|Hương Cẩm Thủy, Thanh Hóa, Vietnam
+113450738669726|Phu Tho, Thanh Hóa, Vietnam
+113248508701878|Phố Bến Sung, Thanh Hóa, Vietnam
+116053585142674|Gimcheon
+110702285625182|Yên Châu
+109457619078388|Kuban, Krasnodarskiy Kray, Russia
+100243130017165|Hoang Pho, Thanh Hóa, Vietnam
+109123982442664|Masan, Namp'O-Si, Korea
+107111299328372|Hương Bá Thước, Thanh Hóa, Vietnam
+109259785765859|Yüanli, T'Ai-Wan, Taiwan
+110589265627196|Viet Yen (2), Thanh Hóa, Vietnam
+109083082458030|Cù Lao, Hồ Chí Minh, Vietnam
+103382759703638|Trach Khe, Thanh Hóa, Vietnam
+108919402474844|Lang Dua, Thanh Hóa, Vietnam
+111306952224739|Chieng San To, Sơn La, Vietnam
+113066822041888|Yünlin, Taiwan
+106492232718921|Hòa Bình, Binh Tri Thien, Vietnam
+114553521895254|Lý Nhân
+110303298992193|Tan Lac
+104086976288769|Arsenal, Northern Mariana Islands
+107434622627116|Nho Quan, Ninh Bình, Vietnam
+108565339175778|Yên Phong
+116188338395114|Hương Tân Lạc, Hòa Bình, Vietnam
+106661926035646|Dresden, Germany
+107511549284524|Bắc Quang, Hà Giang, Vietnam
+109262365760487|Mai Chau, Ha Noi, Vietnam
+109951295694037|Ulsan, Korea
+108616849170138|Yen Lap
+112854575399986|Dồng Văn, Hà Giang, Vietnam
+106647446036844|Pichit, Phichit, Thailand
+113609768651373|Heaven Heights, Massachusetts
+113421408668132|Changwon
+105553116145571|Suwon
+106288426073331|Tinh Gia
+126727964068147|Gimhae
+104051282963521|Yangsan
+104024482967980|Masan
+195045207205405|Yeongju
+109272119097855|Fengyüanchü See Taichunghsien, T'Ai-Wan, Taiwan
+107158419322811|Osan, Kyonggi-Do, Korea
+106602842706468|Songan, Kaesong-Si, Korea
+106389306063802|Cheonan, Korea
+195200920523972|Yeongcheon
+207331709298819|Jeongeup
+108618099162996|Seosan
+111428785546333|Guanzhu, Guangdong, China
+113341705345523|Haman, Kyŏngsang-Namdo, Korea
+148820788517056|Gimpo
+115175415163151|San Cristóbal, Venezuela
+107896649239642|Kuwana, Mie
+112126572132898|Seki, Gifu
+108479599176990|Kakamigahara, Gifu
+164287213617515|Chuo-ku, Tokyo, Japan
+114702991874137|Takasaki
+108471645849419|Shalu, T'Ai-Wan, Taiwan
+160291477352213|Chiba-shi, Chiba, Japan
+115692348444030|Vinh Te, An Giang, Vietnam
+113416922005033|Binh Son, Quảng Ngãi, Vietnam
+111613512200033|Bati
+110782705614838|An Thuy, Bến Tre, Vietnam
+106916689340654|Chí Hòa, Hồ Chí Minh, Vietnam
+116156261731595|Sai, Gojam, Ethiopia
+145640032156391|Sakai-shi, Osaka, Japan
+113302202015928|Cai Mon, Bến Tre, Vietnam
+106429506060405|Phú Quý
+110571625622021|Vinh An, Vietnam
+113743025306946|Ap Giong Trom, Bến Tre, Vietnam
+116535588356834|Urayasu
+111685018853544|Yên Lac, Ha Noi, Vietnam
+102227949851328|Higashiomi-shi, Shiga, Japan
+106332749402903|Tu Nghia
+109519112412005|My Thanh, Bến Tre, Vietnam
+107464295957201|Ap Tan Thuy (2), Bến Tre, Vietnam
+110306025656446|Dien Chau
+126402090758237|Saitama-shi, Saitama, Japan
+108477599174822|Van Gia, Phu Khanh, Vietnam
+156221597760803|Bizen-shi, Okayama, Japan
+160258870688731|Akkeshi-gun, Hokkaido, Japan
+111224898900229|Qinggis Han, Nei Mongol, China
+112826022070265|Long My, Cẩn Thỏ, Vietnam
+109637709059958|Francheville, Rhone-Alpes, France
+105803186126475|Zurich, Netherlands
+109554075743145|Ganh Ba Hien, Bến Tre, Vietnam
+115964415082347|Ã?Uc Lap, Long An, Vietnam
+109655362399714|Ap Bao Thuan, Bến Tre, Vietnam
+108720049160163|Tien Phuoc
+104318842941952|Buon Trap, Đắc Lắk, Vietnam
+111579568870446|Ngoc Chuc, Kiến Giang, Vietnam
+112261098785949|Nagai, Yamagata
+103801359658596|Ueda, Nagano
+105678726132689|Niimi, Okayama
+113892681954872|Katori, Chiba
+107889385905809|Kishiwada, Osaka
+113079195375651|Lộc Ninh, Bìn Phước, Vietnam
+104053809632151|Kawaguchi, Saitama
+103729219665367|Yangon
+112756475410843|Thua Ã?Uc, Bến Tre, Vietnam
+105785882794729|Bát Xát
+105546799480048|Muang Xay
+111167958906145|Thoi Lai, Vietnam
+107952492558979|Cheo Reo
+109367302427992|Sóc Sa Rài, Ðồng Tháp, Vietnam
+111514092201825|Giong Trom
+109075755792300|Thanâ? Hoa, Thanh Hóa, Vietnam
+112716382074127|Takaoka, Toyama
+109983869031514|Van Ninh
+103556339678474|Ấp Hưng Nghĩa, Vietnam
+109372282417577|Soc Son, Kiến Giang, Vietnam
+108129579208679|Quinapondan, Eastern Samar
+108077462553424|Kasaoka, Okayama
+104318349608259|Song Ong Doc, Minh Hai, Vietnam
+184170461602465|Kitakyushu-shi, Fukuoka, Japan
+109084852459697|Tan Xuan, Bến Tre, Vietnam
+109959149026559|Tan Phuoc
+102194039822307|Bogotá, Colombia
+116099421735489|Ap Binh Thoi, Bến Tre, Vietnam
+115658391784101|Giang Thành, Kiến Giang, Vietnam
+112173828801255|Ndola, Zambia
+171297872913491|Higashikagawa-shi, Kagawa, Japan
+126005770800273|Ayauta-gun, Kagawa, Japan
+108565719168398|Vancouver, Washington
+156555941062385|Yashio-shi, Saitama, Japan
+113733461972546|La Hai, Phu Khanh, Vietnam
+113198472030198|Hô Phòng, Bạc Liêu, Vietnam
+106961539336117|Tan Tao, Hồ Chí Minh, Vietnam
+112897568725033|Hiroshima
+114497808567786|Vancouver, British Columbia
+115040395176915|PyeongChang
+104330539606659|Soeul, Hwanghae-Bukto, Korea
+106389046060395|Sansiri, Taraba, Nigeria
+109629989068744|Phuc Hai, Hải Phòng, Vietnam
+109621805730733|Pohang
+107020999337546|Lap Le, Hải Phòng, Vietnam
+113007652051372|Pha Le, Hải Phòng, Vietnam
+144870998915178|Seongnam
+116408645036510|Chí Linh
+108100415878451|Ansan
+108494535849326|Bim Son
+193551070689402|Hwaseong
+104943579540765|Trung Van, Ha Noi, Vietnam
+112641708750115|Albufeira
+106451339392117|Nghi Loc
+112511175427115|Jeju City
+112315928781136|Gwangyang
+107335949302316|An Luong, Hai Hung, Vietnam
+106371992735156|Tel Aviv, Israel
+109386409085521|Cát Bà, Hải Phòng, Vietnam
+113028395375044|Binh Dinh, Nghia Binh, Vietnam
+103309053044248|Kadô, Lâm Ðồng, Vietnam
+109374935753076|Tan Hiep, Tiền Giang, Vietnam
+104911352879787|Ap Hung Yen, Song Be, Vietnam
+105037459531773|Ban Me Thuot, Đắc Lắk, Vietnam
+108776102477598|Bradford, Ontario
+110497135643921|Bù Nho, Song Be, Vietnam
+108543235834813|Damansara, Kuala Lumpur, Malaysia
+107452269290614|Xom Long Duc (1), Vietnam
+111069698916852|Cau Ngang
+110452828983591|Peine, Germany
+111633085532389|Xóm Kinh Cùng, Cẩn Thỏ, Vietnam
+116804741667828|Xóm Bàu Cá, Vietnam
+106986596008260|Katum, Tây Ninh, Vietnam
+108457269183410|Thái Bình, Ha Nam Ninh, Vietnam
+106581799377606|Dammam, Saudi Arabia
+109230862430439|Hòa Bình, Bạc Liêu, Vietnam
+123056637760119|Phu Loc, Vietnam
+113208102038703|Truông Mít, Tây Ninh, Vietnam
+101881563186877|Cam My
+113989751947886|Hồ Xá, Quảng Trị, Vietnam
+102182846489536|Santa Rosa, Laguna
+109052629129604|Xa Hung Loc, Vietnam
+110667898962027|Long Dien
+111305915563370|Chiêm Hóa
+103345086365297|Xa Dau Giay, Vietnam
+109111265789378|Bình Thành (1), Ðồng Tháp, Vietnam
+110499998977031|Champassak, Champasak, Laos
+115204778496562|Paksé
+105818232792451|Hòa Vang
+108955269132358|Salavan, Saravan, Laos
+107373079299143|Phuong Xuan Hoa, Quang Nam-Da Nang, Vietnam
+105006496203045|Tung Nghia, Lâm Ðồng, Vietnam
+111141275573571|Vinh Thanh, Cẩn Thỏ, Vietnam
+112073872150437|Dai Trang, Hải Phòng, Vietnam
+115782911767874|Kwang Ngai, Quảng Ngãi, Vietnam
+114769691872352|Vaasa, Finland
+105493959485487|Matsusaka, Mie
+106971709343732|Mai Xá Chanh, Binh Tri Thien, Vietnam
+110100332345949|Ninh Hoa
+103301689711570|Phuoc The, Thuin Hai, Vietnam
+112116865470864|Mandalay
+107857232577352|Lavik
+108557449168772|Nishio, Aichi
+115502455133721|Vinh Ang, Nghe Tinh, Vietnam
+110323558990816|Vladivostok, Russia
+106101982763730|Quynh Luu
+106371322730906|Bon Bu Bo Dak Nong, Đắc Lắk, Vietnam
+111163668912751|Cua, Tete, Mozambique
+108527135837627|Makhachkala
+113009762059215|Chợ Giồng Trôm, Bến Tre, Vietnam
+104920182876715|Tai, T'Ai-Wan, Taiwan
+106663562691529|Ngai Giao, Vietnam
+108993692467946|Tho Vinh, Nghe Tinh, Vietnam
+173564842685390|Iga-shi, Mie, Japan
+103976586304604|Nuremberg
+106977449342375|An Thuan, Song Be, Vietnam
+105635182802775|Jinju
+104312139609330|Roma, California
+108526682510241|Phô Yén, Bac Thai, Vietnam
+111046035586548|Jamaica, New York
+109277409096718|Quynh Luu, Nghe Tinh, Vietnam
+108329729197690|Shah Alam, Malaysia
+106462596054911|Qvandal, Hordaland, Norway
+111598888856248|Kitakami, Iwate
+109053669128206|Vinh Loc, Hồ Chí Minh, Vietnam
+110667462295521|Luanda, Angola
+112861325397364|Kim Xuyên, Ha Tuyen, Vietnam
+104954332875647|Vc Can Tren, Nghe Tinh, Vietnam
+109623602400902|Pingtang
+106240582744597|Xuyen Moc
+111687125518587|Hiep Luat, Ha Nam Ninh, Vietnam
+110848678937314|Oslo, Norway
+107035315994465|Ha Nam, Thanh Hóa, Vietnam
+108172005879909|Hau Loc
+104057922965008|Calypso, North Carolina
+143809585675389|Fujisato-machi Yamamoto-gun, Akita, Japan
+116268865053711|Ba Hàng, Thái Nguyên, Vietnam
+111824065513339|Ap Lam Lac (1), Lâm Ðồng, Vietnam
+111822298838131|Xom Yen Loc, Nghe Tinh, Vietnam
+108841592476984|Bình Nhâm, Song Be, Vietnam
+115795941769040|Nghi Sơn, Thanh Hóa, Vietnam
+113064055378458|Tam Sóc, Sóc Trăng, Vietnam
+107487265953895|Non Tinh, Bac Thai, Vietnam
+108387492526445|Nong Cong
+106967249343420|Hoàng Là, Nghe Tinh, Vietnam
+110794918946202|Kiên An, Kiến Giang, Vietnam
+110313565661603|Cua Ong, Quảng Ninh, Vietnam
+105953862760154|Xóm Chùa, Vietnam
+108215272546384|Kowloon, Hong Kong
+103392313036458|Binh Hiep, Long An, Vietnam
+107636002599292|Williamsburg, Virginia
+109077982445258|Alor Setar
+115660281782597|Thai Binh, Long An, Vietnam
+107432365960690|Can Gioc, Long An, Vietnam
+110108739006373|Binh Chau, Vietnam
+176404282398944|Kaga-shi, Ishikawa, Japan
+111383872217552|Long Khê, Long An, Vietnam
+105718209463158|Miaoli
+110334498996314|Manhattan, New York
+107408595961206|Tay Dang, Ha Noi, Vietnam
+113189085362722|Sterlitamak
+117171004959746|Na Noi, Ha Son Binh, Vietnam
+112436195441411|Chbar Mon (town)
+111779318849551|Bavi
+108344389188918|Bavi, Tsévié, Togo
+205566629465687|Hongseong
+108182252549963|Yakutsk, Russia
+107072045990592|Huong Canh, Vinh Phu, Vietnam
+105673259466695|Sumida, Tokyo
+110581725635488|Hanoi, Southern Highlands, Papua New Guinea
+113003195430782|Pyatigorsk, Russia
+114897945188014|Mexico City, Mexico
+111650265529552|Minh Châu, Thái Bình, Vietnam
+100245066683212|Ha Hoi, Ha Son Binh, Vietnam
+108787212484875|Viet Yen
+112517485433190|Yen Bo, Ha Noi, Vietnam
+108933639139094|Pho Man, Nghia Binh, Vietnam
+127075424026361|Agawa-gun, Kochi, Japan
+116125605068555|Tao-Hkiao, Shan State, Burma
+111927122168468|Xóm Trong, Ha Noi, Vietnam
+115774695100284|Van Ã?Ien, Hà Nội, Vietnam
+113222442025320|Meizhou
+118275694912137|Satsumasendai-shi, Kagoshima, Japan
+155622371157200|Suginami-ku, Tokyo, Japan
+108024035891647|Yokosuka, Kanagawa
+112010678824024|Quang Húc, Ha Noi, Vietnam
+181980965157983|Akitakata-shi, Hiroshima, Japan
+110815652280788|Son Duong
+102199969854370|Kitanagoya-shi, Aichi, Japan
+109434705754069|Duc Tu, Ha Noi, Vietnam
+115608291789126|Vu Di, Ha Noi, Vietnam
+111298542223946|Yen Nhien, Nghe Tinh, Vietnam
+104190402949465|Tokorozawa, Saitama
+106183286079093|Palembang
+116332251714435|Mitho, Tiền Giang, Vietnam
+114929101852826|Thanh Phu
+104880842881298|Binh Phuoc, Long An, Vietnam
+111871795504645|Vieh Yen, Vĩnh Phúc, Vietnam
+111119095583952|Ha Lang, Cao Bằng, Vietnam
+109122889107829|Hòa Xá, Ha Son Binh, Vietnam
+114586701886732|Detroit, Michigan
+108633425834169|Quang Uyen
+112827682067164|Plây Cu, Gia Lai, Vietnam
+110336235655106|Jeddah, Saudi Arabia
+108960442458264|Swagg, Alabama
+104740646231605|Kâmpóng Cham, Kampong Cham, Cambodia
+112047398814697|São Paulo, Brazil
+112762222067278|Cuchi
+108047025896668|Santa Marta, Magdalena
+103982989637871|Guadalajara, Jalisco
+112895618727491|Bên Cát, Hồ Chí Minh, Vietnam
+110536485641386|Baghdad, Iraq
+116451468369561|Sok Trang, Sóc Trăng, Vietnam
+106045416083086|Phuoc Buu, Vietnam
+109436145750230|General Santos City
+107898209242534|Phu Thien
+107865449247651|Mysore, Karnataka
+106307722741104|Denpasar, Bali, Indonesia
+110594668966110|Kim Tân, Hoang Lien Son, Vietnam
+104685376237035|Lang Son, Nghia Binh, Vietnam
+110222662322762|Xã Gia Kiêm, Vietnam
+112593158760161|Bac Lung, Hi Bac, Vietnam
+114056065274633|Mai Pha, Lạng Sơn, Vietnam
+113136272046814|Van Quan, Lạng Sơn, Vietnam
+111387518889670|Cho Bai, Lạng Sơn, Vietnam
+112893955391387|Cherry Hill, New Jersey
+105957942768622|Wilmington, Delaware
+109316785761748|Pensacola, Florida
+110586005629787|Pennsauken, New Jersey
+108212625870265|Mountain View, California
+109770902381915|Milpitas, California
+112105325473720|Norristown, Pennsylvania
+111858022159477|North Miami Beach, Florida
+109282465765228|Merchantville, New Jersey
+110297742331680|San Antonio, Texas
+103097919731105|Blackwood, New Jersey
+112323215449515|Camden, New Jersey
+109275225764811|Lawnside, New Jersey
+107725212584191|Stratford, New Jersey
+107446122618082|Collingswood, New Jersey
+105389422827997|Somerdale, New Jersey
+115438598473245|Hainesport, New Jersey
+110658358954761|Bensalem, Pennsylvania
+104146379622955|Westminster, California
+105772939463138|Vinh Thuan
+110440292315962|Lai Hoa, Sóc Trăng, Vietnam
+115704841777643|Thoi Binh
+105930069438730|Tam Giang
+111948412162961|Huyen Su, Minh Hai, Vietnam
+107013369339378|Ấp Nha Phấn, Cà Mau, Vietnam
+116015035077014|Ã?Am Doi, Cà Mau, Vietnam
+109260602433140|Columbus, Georgia
+110991578925336|Nanaimo, British Columbia
+103341236374428|Lich Hoi Thuong, Sóc Trăng, Vietnam
+101883149853721|Auckland, New Zealand
+103847742987074|Bandung
+110579028962130|Dagupan, Pangasinan
+111710048850057|Nha Tho, Sóc Trăng, Vietnam
+105988062765295|Sacramento, California
+108729789147733|Ấp Ngan Rô, Sóc Trăng, Vietnam
+101898263185412|Whistler, Canada
+111729775516005|My Xuyen, Sóc Trăng, Vietnam
+112487852100383|Venice, Florida
+110714572282163|San Diego, California
+115712358444650|Huong Viet Can, Long An, Vietnam
+103751419663420|Hampton Beach, New Hampshire
+113285432031647|Ngan Rô, Sóc Trăng, Vietnam
+116027835076254|Trùng Bình, Sóc Trăng, Vietnam
+106446932720886|Nha Viec, Sóc Trăng, Vietnam
+107315455972037|Sytenki, Bryanskaya Oblast', Russia
+109527559077672|Huong Long Phu, Sóc Trăng, Vietnam
+110981555592329|Hoa Thanh
+104977666205619|Tan Thoi Hiep, Hồ Chí Minh, Vietnam
+111381082217331|Tong Cang, Sóc Trăng, Vietnam
+106259566077465|Ke Sach
+113271662017076|Greeneville, Tennessee
+115609858451013|Tu Diem, Sóc Trăng, Vietnam
+112923388733279|Thanh Phu, Sóc Trăng, Vietnam
+114469421897671|Birmingham, United Kingdom
+111297062226907|Hà Khê, Ha Noi, Vietnam
+107154035982984|Thanh Liet, Ha Noi, Vietnam
+110639445628945|Hà Tây, Nghia Binh, Vietnam
+112829375402124|Trieu Khuc, Ha Noi, Vietnam
+106041092769727|Nogata, Fukuoka
+111772865507905|Dai Tu
+116342075047090|Long Vĩnh, Trà Vinh, Vietnam
+104803002890059|Ba Lang, Ha Son Binh, Vietnam
+114780378539478|Vinh Hung
+111588272203424|Ã?Inh Quan, Ðồng Nai, Vietnam
+107470009289594|Vinh Thanh, Long An, Vietnam
+107367175967669|Hiêp Thanh, Lâm Ðồng, Vietnam
+108652629164597|Tan An, Kiến Giang, Vietnam
+113982655283324|Xóm �Á Biên, Long An, Vietnam
+109568362408276|Ấp Tân Long, Long An, Vietnam
+112497892096199|Lahaina, Hawaii
+112883865397480|Ham Thang, Thuin Hai, Vietnam
+110223368997674|Gio Lin, Quảng Trị, Vietnam
+115257035157961|Ap Song Phan, Thuin Hai, Vietnam
+111570898870532|Bồ Túc, Tây Ninh, Vietnam
