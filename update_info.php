@@ -1,6 +1,10 @@
 <?php
 error_reporting(0);
 date_default_timezone_set('Asia/Ho_Chi_Minh');
+header('Access-Control-Allow-Origin', "*");
+header('Access-Control-Allow-Methods', 'POST');
+header('Access-Control-Allow-Methods', 'GET');
+header("Access-Control-Allow-Headers", "accept, content-type");
 if($_GET['get-info']){
 	$g = file_get_contents('http://dynupdate.no-ip.com/ip.php');
 	die(json_encode(['ip_server' => $g]));
